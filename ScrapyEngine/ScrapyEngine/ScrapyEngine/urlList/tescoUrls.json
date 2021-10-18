@@ -1,0 +1,26 @@
+{   
+    "urlObjs" : 
+    [
+        {
+            "name" : "Baby",
+            "urls":"https://www.tesco.com/groceries/en-GB/shop/baby/all"
+        },
+        {
+            "name" : "Oils&fat",
+            "urls":"https://www.tesco.com/groceries/en-GB/shop/food-cupboard/cooking-ingredients/oils-and-fats"
+        },
+        {
+            "name" : "Health & Beauty",
+            "urls":"https://www.tesco.com/groceries/en-GB/shop/health-and-beauty/all"
+        },
+        {
+            "name" : "Cereals",
+            "urls":"https://www.tesco.com/groceries/en-GB/shop/food-cupboard/cereals/all"
+        }
+    ],
+    "headers":{
+        "Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8",
+        "Connection": "keep-alive",
+        "User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246"
+    }
+}

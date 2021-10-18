@@ -1,0 +1,79 @@
+{   
+    "urlObjs" : 
+    [
+        {
+            "urls":"https://www.boots.com/baby-child/babyfeeding/baby-food-weaning?pageNo=1",
+            "maxPage":13
+        },
+        {
+            "urls":"https://www.boots.com/baby-child/babyfeeding/baby-milk-formula?pageNo=1",
+            "maxPage":4
+        },
+        {
+            "urls":"https://www.boots.com/baby-child/babyfeeding/toddler-food-drink?pageNo=1",
+            "maxPage":4
+        },
+        {
+            "urls":"https://www.boots.com/baby-child/babyfeeding/baby-bottles-teats?pageNo=1",
+            "maxPage":6
+        },
+        {
+            "urls":"https://www.boots.com/baby-child/babyfeeding/baby-cups?pageNo=1",
+            "maxPage":2
+        },
+        {
+            "urls":"https://www.boots.com/baby-child/babyfeeding/soothers-teethers?pageNo=1",
+            "maxPage":4
+        },
+        {
+            "urls":"https://www.boots.com/baby-child/babyfeeding/child-dinnerware?pageNo=1",
+            "maxPage":2
+        },
+        {
+            "urls":"https://www.boots.com/baby-child/babyfeeding/sterilising?pageNo=1",
+            "maxPage":2
+        },
+        {
+            "urls":"https://www.boots.com/baby-child/babyfeeding/bibs-muslins?pageNo=1",
+            "maxPage":1
+        },
+        {
+            "urls":"https://www.boots.com/baby-child/babyfeeding/highchairs-booster-seats?pageNo=1",
+            "maxPage":2
+        },
+        {
+            "urls":"https://www.boots.com/baby-child/babyfeeding/lunch-bags?pageNo=1",
+            "maxPage":1
+        },
+        {
+            "urls":"https://www.boots.com/baby-child/bathing-changing/kids-dental?pageNo=1",
+            "maxPage":2
+        },
+        {
+            "urls":"https://www.boots.com/baby-child/bathing-changing/baby-child-toiletries?pageNo=1",
+            "maxPage":9
+        },
+        {
+            "urls":"https://www.boots.com/baby-child/pregnancy-maternity/new-mum-toiletries?pageNo=1",
+            "maxPage":3
+        },
+        {
+            "urls":"https://www.boots.com/baby-child/pregnancy-maternity/pregnancysupplements?pageNo=1",
+            "maxPage":2
+        },
+        {
+            "urls":"https://www.boots.com/health-pharmacy/vitaminsandsupplements/baby-child-vitamins?pageNo=1",
+            "maxPage":4
+        },
+        {
+            "urls":"https://www.boots.com/wellness/vitaminsandsupplements/jointhealth?pageNo=1",
+            "maxPage":3
+        }
+
+        
+    ],
+    "headers":{
+        "Accept":"application/json, text/javascript, */*; q=0.01",
+        "User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36"
+    }
+}

@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+  <script src="/utils/utils.js"></script>
+  <link rel="stylesheet" href="/css/style.css" type="text/css" >
+  <title>MY APP</title>
+</head>
+<body>
+  <h1> Search baby products from Supermakets. </h1>
+  <form action="/search" method="POST">
+    <input type="text" placeholder="search ..." name="searchTerm">
+    <input type="hidden" name="isMobile" id="isMobile" >
+    <button type="submit" onclick="mobileCheck()">Search</button>
+    <input type="checkbox" id="excludeFlag" name="excludeFlag" value="on">
+  </form>
+  <h2> Results </h2>
+
+  <div class="search">
+    <!-- Loop through quotes -->
+    <table class="greyGridTable">
+      <thead>
+      <tr>
+      <th>Store</th>
+      <th>Name</th>
+      <th></th>
+      <th>Price</th>
+      <th>Offer</th>
+      <th>Unit Price</th>
+      </tr>
+      </thead>
+      <tbody>
+
+      <% for(var i = 0; i < search.length; i++) {%>
+          <tr> 
+            <td><%= search[i].store_name %></td>
+            <td><a href=<%= search[i].product_link %> target="_blank" rel="noopener noreferrer"><%= search[i].product_name %></a></td>
+            <td><img src=<%= search[i].product_img %> style="max-width:20%;"></td>
+            <td><%= search[i].product_price %> - <del><%= search[i].was_price %></del></td>
+            <td><%= search[i].product_offer %></td>
+            <td><%= search[i].weightUnitprice %></td>
+          </tr>
+      <% } %>
+    </tbody>
+    </table>
+    </div>
+</body>
+</html>

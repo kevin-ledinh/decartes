@@ -1,0 +1,26 @@
+{   
+    "urlObjs" : 
+    [
+        {
+            "urls":"https://www.ocado.com/browse/baby-child-30932",
+            "name":"baby-child"
+        },
+        {
+            "urls":"https://www.ocado.com/browse/health-medicines-196461",
+            "name":"women's health"
+        },
+        {
+            "urls":"https://www.ocado.com/browse/food-cupboard-20424",
+            "name":"Food cupboard"
+        },
+        {
+            "urls":"https://www.ocado.com/browse/toiletries-21584",
+            "name":"toiletries"
+        }
+    ],
+    "headers":{
+        "Accept":"application/json, text/javascript, */*; q=0.01",
+        "User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36"
+    }
+}
+

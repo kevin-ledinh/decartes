@@ -1,0 +1,6 @@
+__pycache__/
+.vscode/
+logs/
+responseDebug/
+selectors/
+spiders/__pycache__/
