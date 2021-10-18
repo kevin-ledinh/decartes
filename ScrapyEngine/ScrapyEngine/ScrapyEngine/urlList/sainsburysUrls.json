@@ -1,0 +1,64 @@
+{   
+    "BabyToddler" : [
+        {
+            "name": "baby toiletries",
+            "urls": "https://www.sainsburys.co.uk/shop/gb/groceries/baby-toddler-products/CategoryDisplay?langId=44&storeId=10151&catalogId=10241&categoryId=431871&orderBy=FAVOURITES_ONLY%7CSEQUENCING%7CTOP_SELLERS&beginIndex=0&promotionId=&listId=&searchTerm=&hasPreviousOrder=&previousOrderId=&categoryFacetId1=&categoryFacetId2=&ImportedProductsCount=&ImportedStoreName=&ImportedSupermarket=&bundleId=&parent_category_rn=11651&top_category=11651&pageSize=120#langId=44&storeId=10151&catalogId=10241&categoryId=431871&parent_category_rn=11651&top_category=11651&pageSize=120&orderBy=FAVOURITES_ONLY%7CSEQUENCING%7CTOP_SELLERS&searchTerm=&beginIndex=0"
+        },
+        {
+            "name": "nappies",
+            "urls": "https://www.sainsburys.co.uk/shop/gb/groceries/baby-toddler-products/CategoryDisplay?langId=44&storeId=10151&catalogId=10241&categoryId=323353&orderBy=FAVOURITES_ONLY%7CSEQUENCING%7CTOP_SELLERS&beginIndex=0&promotionId=&listId=&searchTerm=&hasPreviousOrder=&previousOrderId=&categoryFacetId1=&categoryFacetId2=&ImportedProductsCount=&ImportedStoreName=&ImportedSupermarket=&bundleId=&parent_category_rn=11651&top_category=11651&pageSize=120"
+        },
+        {
+            "name": "baby milk & drinks",
+            "urls": "https://www.sainsburys.co.uk/shop/gb/groceries/baby-toddler-products/CategoryDisplay?langId=44&storeId=10151&catalogId=10241&categoryId=323369&orderBy=SEQUENCING%7CFAVOURITES_ONLY%7CTOP_SELLERS&beginIndex=0&promotionId=&listId=&searchTerm=&hasPreviousOrder=&previousOrderId=&categoryFacetId1=&categoryFacetId2=&ImportedProductsCount=&ImportedStoreName=&ImportedSupermarket=&bundleId=&parent_category_rn=11651&top_category=11651&pageSize=120#langId=44&storeId=10151&catalogId=10241&categoryId=323369&parent_category_rn=11651&top_category=11651&pageSize=120&orderBy=SEQUENCING%7CFAVOURITES_ONLY%7CTOP_SELLERS&searchTerm=&beginIndex=0"
+        },
+        {
+            "name": "baby meals",
+            "urls": "https://www.sainsburys.co.uk/shop/gb/groceries/baby-toddler-products/CategoryDisplay?langId=44&storeId=10151&catalogId=10241&categoryId=323375&orderBy=FAVOURITES_ONLY%7CSEQUENCING%7CTOP_SELLERS&beginIndex=0&promotionId=&listId=&searchTerm=&hasPreviousOrder=&previousOrderId=&categoryFacetId1=&categoryFacetId2=&ImportedProductsCount=&ImportedStoreName=&ImportedSupermarket=&bundleId=&parent_category_rn=11651&top_category=11651&pageSize=120#langId=44&storeId=10151&catalogId=10241&categoryId=323375&parent_category_rn=11651&top_category=11651&pageSize=120&orderBy=FAVOURITES_ONLY%7CSEQUENCING%7CTOP_SELLERS&searchTerm=&beginIndex=0&hideFilters=true&facet=&facet=&facet="
+        },
+        {
+            "name": "snacks & rusks",
+            "urls": "https://www.sainsburys.co.uk/shop/gb/groceries/baby-toddler-products/all-snacks---rusks#langId=44&storeId=10151&catalogId=10241&categoryId=323386&parent_category_rn=11651&top_category=11651&pageSize=60&orderBy=FAVOURITES_ONLY%7CSEQUENCING%7CTOP_SELLERS&searchTerm=&beginIndex=0&facet=&facet="
+        },
+        {
+            "name": "oil",
+            "urls": "https://www.sainsburys.co.uk/shop/gb/groceries/food-cupboard/all-oils#langId=44&storeId=10151&catalogId=10241&categoryId=267545&parent_category_rn=12422&top_category=12422&pageSize=60&orderBy=SEQUENCING%7CFAVOURITES_ONLY%7CTOP_SELLERS&searchTerm=&beginIndex=0&facet="
+        },
+        {
+            "name": "baby & children's healthcare",
+            "urls": "https://www.sainsburys.co.uk/shop/gb/groceries/health-beauty/all-baby---childrens-healthcare#langId=44&storeId=10151&catalogId=10241&categoryId=294381&parent_category_rn=12448&top_category=12448&pageSize=60&orderBy=FAVOURITES_ONLY%7CTOP_SELLERS&searchTerm=&beginIndex=0"
+        },
+        {
+            "name": "women's health & pregnancy",
+            "urls": "https://www.sainsburys.co.uk/shop/gb/groceries/health-beauty/all-womens-health---pregnancy#langId=44&storeId=10151&catalogId=10241&categoryId=294448&parent_category_rn=12448&top_category=12448&pageSize=60&orderBy=FAVOURITES_ONLY%7CTOP_SELLERS&searchTerm=&beginIndex=0"
+        },
+        {
+            "name": "Vitamins, Minerals & Supplements",
+            "urls": "https://www.sainsburys.co.uk/shop/gb/groceries/health-beauty/all-vitamins--minerals---supplements?fromMegaNav=1#langId=44&storeId=10151&catalogId=10241&categoryId=411852&parent_category_rn=12448&top_category=12448&pageSize=60&orderBy=FAVOURITES_ONLY%7CSEQUENCING%7CNEW%7CTOP_SELLERS&searchTerm=&beginIndex=0"
+        },
+        {
+            "name": "feminine care",
+            "urls": "https://www.sainsburys.co.uk/shop/gb/groceries/health-beauty/all-feminine--care#langId=44&storeId=10151&catalogId=10241&categoryId=428860&parent_category_rn=12448&top_category=12448&pageSize=60&orderBy=FAVOURITES_ONLY%7CSEQUENCING%7CTOP_SELLERS&searchTerm=&beginIndex=0&hideFilters=true"
+        },
+        {
+            "name": "Custard",
+            "urls": "https://www.sainsburys.co.uk/shop/gb/groceries/food-cupboard/custard#langId=44&storeId=10151&catalogId=10241&categoryId=13272&parent_category_rn=12422&top_category=12422&pageSize=60&orderBy=FAVOURITES_ONLY%7CTOP_SELLERS&searchTerm=&beginIndex=0"
+        },
+        {
+            "name": "Rice & sponge pudding",
+            "urls": "https://www.sainsburys.co.uk/shop/gb/groceries/food-cupboard/rice-sponge-pudding#langId=44&storeId=10151&catalogId=10241&categoryId=13275&parent_category_rn=12422&top_category=12422&pageSize=60&orderBy=FAVOURITES_ONLY%7CTOP_SELLERS&searchTerm=&beginIndex=0"
+        },
+        {
+            "name": "Kids biscuits",
+            "urls": "https://www.sainsburys.co.uk/shop/gb/groceries/food-cupboard/kids-biscuits#langId=44&storeId=10151&catalogId=10241&categoryId=210844&parent_category_rn=12422&top_category=12422&pageSize=60&orderBy=FAVOURITES_ONLY%7CSEQUENCING%7CTOP_SELLERS&searchTerm=&beginIndex=0"
+        },
+        {
+            "name": "All cereals",
+            "urls": "https://www.sainsburys.co.uk/shop/gb/groceries/food-cupboard/all-cereals#langId=44&storeId=10151&catalogId=10241&categoryId=135652&parent_category_rn=12422&top_category=12422&pageSize=60&orderBy=FAVOURITES_ONLY%7CSEQUENCING%7CTOP_SELLERS&searchTerm=&beginIndex=0&hideFilters=true&facet=&facet="
+        }
+    ],
+    "headers": {
+        "Accept":"application/json, text/javascript, */*; q=0.01",
+        "User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36"
+    }
+}
